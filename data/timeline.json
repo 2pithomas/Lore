@@ -1,0 +1,42 @@
+[
+  {
+    "year": 1990,
+    "title": "Born in the 90s",
+    "description": "Origin story begins."
+  },
+  {
+    "year": 2003,
+    "title": "Moved to Portland",
+    "description": "Family relocation to PDX."
+  },
+  {
+    "year": 2011,
+    "title": "Back to Seattle",
+    "description": "Return to the Emerald City."
+  },
+  {
+    "year": 2015,
+    "title": "Graduated",
+    "description": "Diploma acquired; next quest unlocked."
+  },
+  {
+    "year": 2018,
+    "title": "Study Abroad — Rome",
+    "description": "Gelato-fueled academics."
+  },
+  {
+    "year": 2021,
+    "title": "Moved to Minneapolis",
+    "description": "New base of operations."
+  },
+  {
+    "year": 2022,
+    "title": "Master's — Arizona",
+    "description": "Desert degree achieved."
+  },
+  {
+    "year": 2025,
+    "title": "Golden Birthday Epic Ride",
+    "description": "100 miles on a mountain bike + 5 miles of mud."
+  }
+]
